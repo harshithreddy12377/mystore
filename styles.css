@@ -1,0 +1,47 @@
+#show{
+    background-color: silver;
+    border:1px solid;
+    width:300px;
+    position:fixed;
+    top:0px;
+    left:100%;
+    height:100%;
+    padding:20px;
+    transition: 2s;
+}
+*{
+    margin: 0px;
+}
+.container{
+margin:0px;
+}
+.header{
+background-color: aqua;
+display: flex;
+justify-content: space-between;
+padding:10px;
+margin:0px;
+
+}
+.row{
+    display: flex;
+    justify-content: center;
+    padding:75px;
+}
+.box{
+    border: 1px;
+    background-color: white;
+    padding:20px;
+    margin:10px;
+    border-radius:10px;
+    width:400px;
+    height:250px;
+
+}
+.productBlock{
+background-color:  #e7eaf6;
+
+}
+.cartBlock{
+
+}

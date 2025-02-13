@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body onload="showProducts()">
+    <div class="container">
+    <div class="header">
+    <h1>My Store</h1>
+    <div id="displayI" onclick="displayBlock()"></div>
+    </div>
+   
+    <div class="productBlock">
+    <h2 style="font-family: Arial, Helvetica, sans-serif; padding-top: 40px; padding-left:30px;">Products:</h2>
+    <div id="divProducts"></div>
+    </div>
+    <div id="show">
+    <h3>My Cart</h3>
+    <div id="divCart"></div>
+    <div id="Total"></div>
+    <button onclick="Remove()">Close</button>
+    </div>
+    </div>
+  </body>
+</html>
