@@ -22,7 +22,7 @@ function showForm() {
   <p><input type="password" id="password" placeholder="Password"></p>
   <p><input type="date" id="dob"></p>
   <p><button onclick='addUser()'>Submit</button></p>
-   
+  <p><button onclick='showLogin()'>Goto Login</button></p>
   <p>Already a member?<button onclick='showLogin()'>Login Here</button></p>
   
   `;
