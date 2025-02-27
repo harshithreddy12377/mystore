@@ -14,6 +14,7 @@
 }
 .container{
 margin:0px;
+
 }
 .header{
 background-color: aqua;
@@ -25,6 +26,7 @@ margin:0px;
 }
 .row{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     padding:75px;
 }
@@ -38,10 +40,17 @@ margin:0px;
     height:250px;
 
 }
-.productBlock{
+#productBlock{
 background-color:  #e7eaf6;
 
 }
 .cartBlock{
 
+}
+#navi{
+    display:flex;
+    padding:10px;
+}
+#order2{
+    padding-right:10px;
 }

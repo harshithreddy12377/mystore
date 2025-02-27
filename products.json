@@ -1,0 +1,56 @@
+[
+  { "image" :"https://picsum.photos/id/1/200/300",
+    "id": 1,
+    "name": "P1",
+    "desc": "This is description of product 1",
+    "price": 25
+  },
+  { "image" :"https://picsum.photos/id/1/200/300",
+    "id": 2,
+    "name": "P2",
+    "desc": "This is description of product 2",
+    "price": 45
+  },
+  {"image" :"https://picsum.photos/id/2/200/300",
+    "id": 3,
+    "name": "P3",
+    "desc": "This is description of product 3",
+    "price": 30
+  },
+  {"image" :"https://picsum.photos/id/1/200/300",
+    "id": 4,
+    "name": "P4",
+    "desc": "This is description of product 4",
+    "price": 35
+  },
+  {"image" :"https://picsum.photos/id/1/200/300",
+    "id": 5,
+    "name": "P5",
+    "desc": "This is description of product 5",
+    "price": 49
+  },
+  {"image" :"https://picsum.photos/id/1/200/300",
+    "id": 6,
+    "name": "P6",
+    "desc": "This is description of product 6",
+    "price": 53
+  },
+  {"image" :"https://picsum.photos/id/1/200/300",
+    "id": 7,
+    "name": "P7",
+    "desc": "This is description of product 6",
+    "price": 53
+  },
+  {"image" :"https://picsum.photos/id/1/200/300",
+    "id": 8,
+    "name": "P8",
+    "desc": "This is description of product 6",
+    "price": 53
+  },
+  {"image" :"https://picsum.photos/id/1/200/300",
+    "id": 9,
+    "name": "P9",
+    "desc": "This is description of product 6",
+    "price": 53
+  }
+]
