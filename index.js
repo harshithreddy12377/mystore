@@ -41,7 +41,7 @@ function addUser() {
     balance: 0,
   };
   users.push(user);
-  showUser1();
+  showLogin();
   
 }
 function showLogin() {
